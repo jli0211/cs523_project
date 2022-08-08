@@ -18,7 +18,7 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 
 # Datasets:
 - [IMDB Reviews](https://www.tensorflow.org/datasets/catalog/imdb_reviews) from Tensorflow Datasets
-- [Sentiment 140 (Twitter Tweets)] (https://www.tensorflow.org/datasets/catalog/sentiment140) from Tensorflow Datasets
+- [Sentiment 140] (https://www.tensorflow.org/datasets/catalog/sentiment140) from Tensorflow Datasets
 
 # Train RNN model: 
 To train a model run sentiment_rnn.py.
