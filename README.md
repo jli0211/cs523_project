@@ -1,7 +1,7 @@
 # Sentiment Analysis (Tensorflow)
-Multi-layer RNN used for Sentiment analysis in Python using tensorflow. 
-
+Multi-layer RNN used for Sentiment analysis in Python using tensorflow.
 Models from tensorflow text classification RNN and BERTs model. 
+The BERTs Model used to run the Wikipedia Toxicity Subset Dataset is based on the model given in [Hugging Face](https://huggingface.co/docs/transformers/tasks/sequence_classification)
 
 # Overview
 Sentiment analysis that compares both models: RNN model vs. the BERTs Model that classifies text into 2 categories: positive or negative sentiments. The RNN model is structured as follows:
@@ -15,17 +15,22 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 - numpy
 - matplotlib.pyplot
 - Python 3.7.13
+- Access to Google Colab
 
 # Datasets:
 - [IMDB Reviews](https://www.tensorflow.org/datasets/catalog/imdb_reviews) from Tensorflow Datasets
 - [Wikipedia Toxicity Subtypes](https://www.tensorflow.org/datasets/catalog/wikiann)
 
 # Train RNN model: 
-To train a model run sentiment_rnn.py.
+1. Copy the following google colab into your google Drive: [imdb_rnn](https://colab.research.google.com/drive/1z5yFfh1SqE7SpAu8AFBCENeHsjrXmZDs?authuser=1)
+2. Under Runtime, click "Run all"
 ![A drawing of the information flow in the model](https://github.com/tensorflow/text/blob/master/docs/tutorials/images/bidirectional.png?raw=1)
 
-# Train BERTs Model:
-To train BERTs model run sentiment_berts.py
+# Train BERTs Model for IMDB:
+
+# Train BERTs Model for Wikipedia:
+1. Copy the following google colab into your google Drive: [berts_wiki](https://colab.research.google.com/drive/1PAd3amrW5PhMd_azZp3SJ_ZD4ncXn3fP?authuser=1)
+2. Under Runtime, click "Run all"
 
 <img width="199" alt="bert_model" src="https://user-images.githubusercontent.com/84884991/183482796-c629aecb-3da9-453c-8572-5c726c9d8559.PNG">
 
