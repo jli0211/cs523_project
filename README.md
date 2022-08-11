@@ -21,9 +21,14 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 - [IMDB Reviews](https://www.tensorflow.org/datasets/catalog/imdb_reviews) from Tensorflow Datasets
 - [Wikipedia Toxicity Subtypes](https://www.tensorflow.org/datasets/catalog/wikiann)
 
-# Train both RNN model: 
+# Train both RNN models: 
 1. Copy the following google colab into your google Drive: [imdb_rnn](https://colab.research.google.com/drive/1z5yFfh1SqE7SpAu8AFBCENeHsjrXmZDs?authuser=1)
-2. Under Runtime, click "Run all"
+2. Load either the 'imdb_reviews' dataset or the 'wikipedia_toxicity_subtypes' dataset
+3. Under Runtime, click "Run all"
+4. Repeat steps 1-3 for the other dataset
+
+Alternatively, you can directly run the "rnn_imdb_reviews_dataset.ipynb" and "rnn_wikipedia_toxicity_dataset.ipynb" Jupyter Notebooks.
+
 ![A drawing of the information flow in the model](https://github.com/tensorflow/text/blob/master/docs/tutorials/images/bidirectional.png?raw=1)
 
 # Train BERTs Model for IMDB:
