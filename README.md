@@ -21,7 +21,7 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 - [IMDB Reviews](https://www.tensorflow.org/datasets/catalog/imdb_reviews) from Tensorflow Datasets
 - [Wikipedia Toxicity Subtypes](https://www.tensorflow.org/datasets/catalog/wikiann)
 
-# Train RNN model: 
+# Train both RNN model: 
 1. Copy the following google colab into your google Drive: [imdb_rnn](https://colab.research.google.com/drive/1z5yFfh1SqE7SpAu8AFBCENeHsjrXmZDs?authuser=1)
 2. Under Runtime, click "Run all"
 ![A drawing of the information flow in the model](https://github.com/tensorflow/text/blob/master/docs/tutorials/images/bidirectional.png?raw=1)
