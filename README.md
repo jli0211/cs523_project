@@ -30,7 +30,9 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 
 # Train BERTs Model for Wikipedia:
 1. Copy the following google colab into your google Drive: [berts_wiki](https://colab.research.google.com/drive/1PAd3amrW5PhMd_azZp3SJ_ZD4ncXn3fP?authuser=1)
-2. Under Runtime, click "Run all"
+2. Under Runtime, go to Change Runtime Type and change it into GPU
+![image](https://user-images.githubusercontent.com/84884991/184053028-bb3d9dc9-95fd-40ab-b822-0ece462fcd7e.png)
+3. Under Runtime, click "Run all"
 
 <img width="199" alt="bert_model" src="https://user-images.githubusercontent.com/84884991/183482796-c629aecb-3da9-453c-8572-5c726c9d8559.PNG">
 
