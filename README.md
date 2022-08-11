@@ -24,6 +24,7 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 # Train both RNN models: 
 1. Copy the following google colab into your google Drive: [imdb_rnn](https://colab.research.google.com/drive/1z5yFfh1SqE7SpAu8AFBCENeHsjrXmZDs?authuser=1)
 2. Load either the 'imdb_reviews' dataset or the 'wikipedia_toxicity_subtypes' dataset
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/69744332/184056037-41332b7a-d121-40b1-bd8a-591f9f07b27d.png">
 3. Under Runtime, click "Run all"
 4. Repeat steps 1-3 for the other dataset
 
