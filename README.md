@@ -43,8 +43,8 @@ Alternatively, you can directly run the "rnn_imdb_reviews_dataset.ipynb" and "rn
 
 # Train BERTs Model for Wikipedia:
 1. Copy the following google colab into your google Drive: [berts_wiki](https://colab.research.google.com/drive/1PAd3amrW5PhMd_azZp3SJ_ZD4ncXn3fP?authuser=1)
-
 2. Under Runtime, go to Change Runtime Type and change it into GPU
+
 ![image](https://user-images.githubusercontent.com/84884991/184053028-bb3d9dc9-95fd-40ab-b822-0ece462fcd7e.png)
 
 3. Under Runtime, click "Run all"
