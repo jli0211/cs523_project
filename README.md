@@ -34,6 +34,10 @@ Alternatively, you can directly run the "rnn_imdb_reviews_dataset.ipynb" and "rn
 ![A drawing of the information flow in the model](https://github.com/tensorflow/text/blob/master/docs/tutorials/images/bidirectional.png?raw=1)
 
 # Train BERTs Model for IMDB:
+1. Copy the following google colab into your google Drive: https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb#scrollTo=4_NEJlxKKjyI
+2. Under Runtime, go to Change Runtime Type and change it into GPU
+![image](https://user-images.githubusercontent.com/84884991/184053028-bb3d9dc9-95fd-40ab-b822-0ece462fcd7e.png)
+3. Under Runtime, click "Run all"
 
 # Train BERTs Model for Wikipedia:
 1. Copy the following google colab into your google Drive: [berts_wiki](https://colab.research.google.com/drive/1PAd3amrW5PhMd_azZp3SJ_ZD4ncXn3fP?authuser=1)
