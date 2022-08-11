@@ -27,6 +27,7 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/69744332/184056037-41332b7a-d121-40b1-bd8a-591f9f07b27d.png">  
 3. Under Runtime, click "Run all"  
 4. Repeat steps 1-3 for the other dataset
+5. Repeat steps 1-3 for the other dataset
 
 Alternatively, you can directly run the "rnn_imdb_reviews_dataset.ipynb" and "rnn_wikipedia_toxicity_dataset.ipynb" Jupyter Notebooks.  
 
