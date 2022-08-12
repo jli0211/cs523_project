@@ -52,6 +52,7 @@ https://docs.google.com/presentation/d/187IqNFL61HfrSn01FwLqcec9LA-ipOsU7_t0bfRZ
 
 3. Under Runtime, click "Run all"
 
+![image](https://user-images.githubusercontent.com/84884991/184274949-c824000f-71d4-4712-85f2-62bc2aba9e07.png)
 
 
 # Another way to Train the Models:
