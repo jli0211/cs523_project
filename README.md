@@ -54,4 +54,4 @@ https://docs.google.com/presentation/d/187IqNFL61HfrSn01FwLqcec9LA-ipOsU7_t0bfRZ
 
 <img width="199" alt="bert_model" src="https://user-images.githubusercontent.com/84884991/183482796-c629aecb-3da9-453c-8572-5c726c9d8559.PNG">
 
-# Comparison of the Two Models:
+
