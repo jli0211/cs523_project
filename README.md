@@ -54,4 +54,8 @@ https://docs.google.com/presentation/d/187IqNFL61HfrSn01FwLqcec9LA-ipOsU7_t0bfRZ
 
 
 
-
+# Another way to Train the Models:
+1. Download the files attached
+2. Upload it to your Google Drive 
+3. Go to [Google Colab](https://colab.research.google.com/?utm_source=scs-index) 
+4. Open the files to start training.
