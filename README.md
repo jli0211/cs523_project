@@ -58,4 +58,5 @@ https://docs.google.com/presentation/d/187IqNFL61HfrSn01FwLqcec9LA-ipOsU7_t0bfRZ
 1. Download the files attached
 2. Upload it to your Google Drive 
 3. Go to [Google Colab](https://colab.research.google.com/?utm_source=scs-index) 
-4. Open the files to start training.
+4. Open the file (depending on which model and dataset you want to train) 
+5. Go to Runtime and click "Run all"
