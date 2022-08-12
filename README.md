@@ -10,6 +10,11 @@ Sentiment analysis that compares both models: RNN model vs. the BERTs Model that
 - Third Layer- Bidirectional RNN-LSTM: Combination of 2 RNNs (LSTM), one RNN moves forward and one moves backward. This allows the model to look at future context as well. 
 - Last layer- Dense layer: layer that is deeply connected meaning that the neurons in the dense layer is receiving input from all the neurons from the previous layer. 
 
+# Slideshow Link 
+
+https://docs.google.com/presentation/d/187IqNFL61HfrSn01FwLqcec9LA-ipOsU7_t0bfRZtks/edit?usp=sharing
+
+
 # Prerequisites:
 - Tensorflow 2.x
 - numpy
